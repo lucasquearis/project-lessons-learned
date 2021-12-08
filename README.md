@@ -1,6 +1,6 @@
 # O primeiro projeto a gente nunca esquece
 
-Esse foi meu primeiro projeto oficial na [Trybe](https://www.betrybe.com/):rocket:
+Esse foi meu primeiro projeto oficial na [Trybe](https://www.betrybe.com/):rocket:\
 [Resultado](https://lucasquearis.github.io/)
 
 ## Conteúdos práticados
